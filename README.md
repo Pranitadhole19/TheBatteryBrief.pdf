@@ -1,5 +1,5 @@
 
-### ✅ **Solution to Link Battery Sample Documents with Metadata in Power BI**
+### **Solution to Link Battery Sample Documents with Metadata in Power BI**
 
 To ensure each battery sample and its related documents (test reports, certificates, images) can be tracked and reported in Power BI, I followed this structured approach:
 
@@ -41,7 +41,7 @@ To ensure each battery sample and its related documents (test reports, certifica
 
 ---
 
-### ✅ Final Result
+### Final Result
 
 This setup ensures every sample and its documents are fully linked, searchable, and viewable within Power BI for easy tracking and reporting.
 
